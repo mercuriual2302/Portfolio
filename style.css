@@ -319,6 +319,7 @@ section {
 
 #experience {
   position: relative;
+  text-align: center;
 }
 
 .experience-sub-title {
@@ -358,6 +359,7 @@ article .icon {
 
 #projects {
   position: relative;
+  text-align: center;
 }
 
 .color-container {
@@ -379,6 +381,13 @@ article .icon {
 .project-btn {
   color: black;
   border-color: rgb(163, 163, 163);
+}
+
+.project-description {
+  font-size: 0.85rem;
+  color: rgb(85, 85, 85);
+  margin: 0 1rem 0.75rem;
+  line-height: 1.5;
 }
 
 /* CONTACT */
